@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Taylor Sperduti
+# DATE: 10/7/25
+# BRIEF DESCRIPTION: Thiswill ask if you want a compliment then output one 
 
 
 
@@ -15,7 +15,12 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+compliment = input("Would you like a compliment?: ")
 
+if "yes" == compliment:
+      print("You have wonderful eyes.")
+
+print("Thank you for playing.")
 
 
 
@@ -67,12 +72,12 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+3
 
 
 2. What was the hardest part of this lab?
 
-
+I kept getting indentation errors
 
 
 
